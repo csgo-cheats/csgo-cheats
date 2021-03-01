@@ -1,6 +1,7 @@
 csgo cheats creted in python by discord user pero#0409
 join our csgo cheat community on discord -> https://discord.gg/ZUmn2kdPau
-these cheats are opensource so you can use them anywhere
+!check discord server if you wanna get .exe file or know if cheat is patched or safe to use!
+im not responsible for any bans
 
 im working on:
 glowhack,
