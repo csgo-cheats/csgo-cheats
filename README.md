@@ -1,16 +1,12 @@
-### Hi there 👋
+csgo cheats creted in python by discord user pero#0409
+join our csgo cheat community on discord -> https://discord.gg/ZUmn2kdPau
+these cheats are opensource so you can use them anywhere
 
-<!--
-**csgo-cheats/csgo-cheats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+im working on:
+glowhack,
+triggerbot,
+auto bhop,
+recoil control,
+noflash,
+and more to come
+Everything is made in python beacuse is less detectable.
